@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=
+projectKey=org.mais.fhir\:mais-fhir-resources-dstu2
+serverUrl=http\://10.250.3.16\:9000
+version=2
